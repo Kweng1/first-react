@@ -11,7 +11,7 @@ const Students = () => {
         { name: "Siton", department: "English", finalGrade: 74, status: "Pass" },
         { name: "Allen", department: "Math", finalGrade: 81, status: "Pass" },
         { name: "James", department: "Pathfit", finalGrade: 88, status: "Pass" },
-        { name: "John", department: "OOP", finalGrade: 69, status: "Pass" },
+        { name: "Kyle", department: "OOP", finalGrade: 69, status: "Pass" },
         { name: "Ivan", department: "GE9", finalGrade: null, status: "Fail" },
         { name: "Judy", department: "CC101", finalGrade: null, status: "Fail" }
     ];
